@@ -1,0 +1,293 @@
+.my-head {
+    margin: 0;
+    background: color #fff8f3;
+    background-image: url('images/header_bg.png'), url('images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+
+.primary-color {
+    color: #FD6E0A;
+    ;
+}
+
+.baba {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.baba2 {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.tittle-of-mary {
+    font-weight: 800;
+    font-size: 45px;
+}
+
+
+body {
+    font-family: "Open Sans", sans-sarif;
+}
+
+.My-head {
+    margin: 0;
+    background: color #fff8f3;
+    background-image: url('images/header_bg.png'), url('images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+
+ul li {
+    margin: 50px;
+}
+
+li a {
+    text-decoration: none;
+    color: #474747;
+}
+
+.btn {
+    background-color: #FD6E0A;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-Weight: 700;
+    font-size: 20px;
+    padding: 15px 30px;
+
+}
+
+/* Hardy vai Ar kaj */
+.Mary-hardy {
+    display: flex;
+    align-items: center;
+    padding: 40px 30px 0px 200px;
+}
+
+.pijus {
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.nm {
+    margin: 0PX;
+    padding-top: 0px;
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.bt {
+    background-color: #FD6E0A;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 5px;
+
+}
+
+.KajHoy {}
+
+.ss {
+    /* background-color: #ffffff;*/
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    color: #FD6E0A;
+    background-color: rgba(255, 255, 255, 0.071);
+    padding: 15px 20px;
+}
+
+.sujon {
+    margin-left: 10px;
+    padding: 10px;
+
+}
+
+.pt {
+    background-color: #FD6E0a;
+    border: none;
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+/* main-fact-section */
+.main-fact-section {
+    background-color: #FFF8F3;
+    margin: 130px 200px;
+    padding: 130px 150px;
+    text-align: center;
+    border-radius: 10px;
+    /* border: 1px solid green;
+ height: 550px;
+ width: 1140px; */
+}
+
+.padding-parina {
+    /* padding: 131px 157px 131px 1565px ; */
+    /* border: 1px solid red; */
+}
+
+.about-me-section {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+
+
+}
+
+.priti {
+    color: white;
+}
+
+.lota {
+    font-weight: bold;
+    font-size: 20pxs;
+}
+
+.niloy {
+    text-decoration-color: #474747;
+}
+
+.lota {
+    font-weight: 700;
+    font-size: larger;
+}
+
+.pp {
+    text-decoration-color: #474747;
+}
+
+.lota {
+    font-weight: 700;
+    font-size: large;
+}
+
+.bb {
+    text-decoration-color: #474747;
+}
+
+.lota {
+    font-weight: 700;
+    font-size: large;
+}
+
+/* What I Do */
+.What-I-Do {
+    margin: 0px 230px 130px 200px;
+
+}
+
+.what-I-Do-Sub {
+    text-align: center;
+    margin: 0px 100px 50px 100px;
+
+}
+.borsa{
+    display: flex;
+}
+.bristi{
+     /* border: 2px solid green; */
+    border-radius:5px ;
+    background-color: #ffffff;
+    padding: 30px;
+    margin-right: 24px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, .06);
+
+}
+/* A summary of My Resume */
+
+.kajol{
+    display: flex;
+}
+.ii{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 113px;
+}
+.Resume{
+    margin:0px 230px 130px 230px ;
+}
+.kk{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    /* margin-bottom: 113px; */
+}
+.mm{
+    margin-right: 71px;
+}
+.jumana{
+    background-color: #FD6E0A;
+    border: none;
+    color: white;
+    height: 64px;
+    width: 200;
+    border-radius: 5px;
+}
+.jim{
+    margin-left: 5px;
+    padding: 10px;
+}
+.nupur{
+    text-align: center;
+    margin-top: 50px;
+}
+.headline{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+    margin-bottom: 20px;
+}
+.mimmi{
+  margin-top: 10px; 
+  font-weight: 600;
+  font-size: 2opx;
+ color: #757575; 
+}
+.mimi2{
+
+}
+.footer{
+    display: flex;
+    background-color: #fff8f3;
+    padding: 130px 200px;
+}
+.footer section{
+    width: 50%;
+}
+.md{
+    margin-right: 100px;
+}
+form input[type="text"],form input[type="email"],textarea{
+    display: block;
+    width: 100%;
+}
+.mause:hover{
+    background-color: teal;
+}
+.mausehover:hover{
+    border: #FD6E0A;
+}
+.submit{
+    background-color: #FD6E0A;
+}

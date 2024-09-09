@@ -1,0 +1,34 @@
+.my head{
+ margin: 0px;
+ background: 0px;
+ background-color: white
+ background-image src=url('image/header bg.png'),url('image/developer.png') ;
+ background-repeat:no-repeat;  
+}
+.tittle-of-mary{
+font-weight: 800;
+font-size:45px ;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+
+ 
+.baba{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    pading-top:50px;
+ 
+}
+
+.baba2{
+    display: flex;
+    align-items: none;
+}
+.pp{
+  font-weight: 600; 
+  font-size: 45px;
+  color: #474747; 
+}
+    
